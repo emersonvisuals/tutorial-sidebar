@@ -1,7 +1,11 @@
 import React from "react";
 
 const Performance = () => {
-    return <div>performance.</div>;
+    return (
+        <div>
+            <h1>performance.</h1>
+        </div>
+    );
 };
 
 export default Performance;
